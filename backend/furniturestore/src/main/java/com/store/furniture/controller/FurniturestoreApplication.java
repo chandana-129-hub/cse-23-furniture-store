@@ -1,0 +1,12 @@
+package com.store.furniture.controller;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FurniturestoreApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(FurniturestoreApplication.class, args);
+    }
+}
