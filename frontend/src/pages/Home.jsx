@@ -6,19 +6,19 @@ function Home() {
       name: "Luxury Sofa",
       price: 45999,
       image:
-        "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBa-yvz-p1vINo5qsPT5p7Ees5O9kA7QxQoTs579O41Cohn0YZpqkOy6s&s=10",
     },
     {
       name: "Wooden Dining Table",
       price: 28999,
       image:
-        "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa1QJ3y3WEE_VmVbvH_nuLk9sfLvrEI3s1XVWEVmt8RA&s=10",
     },
     {
       name: "Office Chair",
       price: 12999,
       image:
-        "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rskUHRmXx2GyCbYHDZm4_Gaid88uNjJ0L_xZUwLk-A&s=10",
     },
   ];
 
